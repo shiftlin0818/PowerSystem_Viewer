@@ -13,7 +13,7 @@ Download and unzip the files.
 Note: Currently,  support the matpower case format / PSSE33 (except 3 windings transfrormer and DC line)
 
 
-2. Choose a bus number and the number of iters wanted to be viewed
+2. Choose a bus number and the number of tiers wanted to be viewed
 
 
 3. Click search
