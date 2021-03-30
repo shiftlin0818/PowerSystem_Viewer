@@ -39,7 +39,8 @@ Update log:
  
 2021-03-33
       fix the bug: 
-           Can not refresh the data when loading new case
+           
+           Can not refresh the data when load new case
  
  To do:
    click the bus, show the related inforamtion on the right side panel
