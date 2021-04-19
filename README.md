@@ -1,6 +1,6 @@
 # PowerSystem_Viewer
 
-Welcome to feed back issues and give suggestions(zenglin@outlook.com).
+Welcome to feed back issues and give suggestions in Issues.
 
 This program is academic purpose tool for power system visualization.
 
